@@ -1,0 +1,13 @@
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.csprojAssemblyReference.cache
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.AssemblyInfoInputs.cache
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.AssemblyInfo.cs
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.csproj.CoreCompileInputs.cache
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.exe
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.deps.json
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.runtimeconfig.json
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.runtimeconfig.dev.json
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.dll
+C:\Users\bobin.yang\Source\Repos\AsyProgram\bin\Debug\netcoreapp3.1\AsyProgram.pdb
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.dll
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.pdb
+C:\Users\bobin.yang\Source\Repos\AsyProgram\obj\Debug\netcoreapp3.1\AsyProgram.genruntimeconfig.cache
